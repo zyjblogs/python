@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9833689c-5202-4c97-8eb7-79ff85ec6ca3" name="默认的" comment="add 文件" />
+    <list default="true" id="9833689c-5202-4c97-8eb7-79ff85ec6ca3" name="默认的" comment="add 文件">
+      <change beforePath="$PROJECT_DIR$/.idea/note/pychram快捷.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/py_code/helloworld.py" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +22,7 @@
     <favorites_list name="python" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -98,7 +101,7 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="121" />
     <option name="y" value="89" />
     <option name="width" value="1465" />
@@ -110,17 +113,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -207,6 +200,7 @@
       <workItem from="1553693918376" duration="1091000" />
       <workItem from="1553695028736" duration="2367000" />
       <workItem from="1553697398911" duration="842000" />
+      <workItem from="1553698320447" duration="708000" />
     </task>
     <task id="LOCAL-00001" summary="默认的">
       <created>1553681576901</created>
@@ -285,11 +279,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553698188912</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add 文件">
+      <created>1553698372418</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1553698372418</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16465000" />
+    <option name="totallyTimeSpent" value="17173000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -301,9 +302,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="19" y="28" width="1465" height="1000" extended-state="0" />
+    <frame x="121" y="89" width="1465" height="1000" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.3074733" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.31174377" />
       <window_info id="Structure" order="1" sideWeight="0.5008606" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5008606" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -316,10 +317,10 @@
       <window_info anchor="bottom" id="找到" order="7" />
       <window_info anchor="bottom" id="运行" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.48967972" visible="true" weight="0.30369514" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.48896798" visible="true" weight="0.30369514" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.4961637" weight="0.3290993" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5103203" side_tool="true" visible="true" weight="0.30369514" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.51103204" side_tool="true" visible="true" weight="0.30369514" />
       <window_info anchor="bottom" id="调试" order="14" />
       <window_info anchor="bottom" id="Python Console" order="15" sideWeight="0.49850747" weight="0.3290993" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="16" visible="true" weight="0.35450345" />
