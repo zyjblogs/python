@@ -23,3 +23,7 @@ print('输出语言')
 favorite_language = 'python '
 print(favorite_language)
 print(favorite_language.rstrip())
+# 但是没有真正的删除
+print(favorite_language.lstrip())
+favorite_language=favorite_language.rstrip()
+print(favorite_language)
