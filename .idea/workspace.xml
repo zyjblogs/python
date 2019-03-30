@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9833689c-5202-4c97-8eb7-79ff85ec6ca3" name="默认的" comment="提交文件">
+      <change afterPath="$PROJECT_DIR$/py_code/bicycles.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
@@ -12,11 +13,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python$1.coverage" NAME="1 Coverage Results" MODIFIED="1553701762157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$1.coverage" NAME="1 Coverage Results" MODIFIED="1553937502890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$message.coverage" NAME="message Coverage Results" MODIFIED="1553781337466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_code" />
     <SUITE FILE_PATH="coverage/python$name.coverage" NAME="name Coverage Results" MODIFIED="1553839634170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_code" />
+    <SUITE FILE_PATH="coverage/python$02_udp.coverage" NAME="02-案例：udp聊天 Coverage Results" MODIFIED="1553937516024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../学习/python/code" />
     <SUITE FILE_PATH="coverage/python$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1553748930694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_code" />
     <SUITE FILE_PATH="coverage/python$.coverage" NAME="线程优先级队列 Coverage Results" MODIFIED="1553781250572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_code" />
+    <SUITE FILE_PATH="coverage/python$bicycles.coverage" NAME="bicycles Coverage Results" MODIFIED="1553957203567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_code" />
     <SUITE FILE_PATH="coverage/python$mh.coverage" NAME="mh Coverage Results" MODIFIED="1553701765265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/source" />
     <SUITE FILE_PATH="coverage/python$birthday.coverage" NAME="birthday Coverage Results" MODIFIED="1553840095151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_code" />
   </component>
@@ -27,7 +30,17 @@
     <favorites_list name="python" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/py_code/bicycles.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -88,6 +101,7 @@
         <option value="$PROJECT_DIR$/py_code/message.py" />
         <option value="$PROJECT_DIR$/py_code/name.py" />
         <option value="$PROJECT_DIR$/py_code/birthday.py" />
+        <option value="$PROJECT_DIR$/py_code/bicycles.py" />
       </list>
     </option>
   </component>
@@ -97,9 +111,9 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="278" />
-    <option name="y" value="81" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="281" />
+    <option name="y" value="47" />
     <option name="width" value="1017" />
     <option name="height" value="1050" />
   </component>
@@ -111,23 +125,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope '默认的'; set:默认的; class com.intellij.packageDependencies.ChangeListScope">
-          <expand>
-            <path>
-              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="py_code" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope '默认的'; set:默认的; class com.intellij.packageDependencies.ChangeListScope">
+          <expand>
+            <path>
+              <item name="python" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -159,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1">
+  <component name="RunManager" selected="Python.bicycles">
     <configuration name="线程优先级队列" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,6 +193,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py_code/线程优先级队列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02-案例：udp聊天" type="PythonConfigurationType" factoryName="Python">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../学习/python/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../学习/python/code/02-案例：udp聊天.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,6 +245,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="bicycles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py_code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py_code/bicycles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="birthday" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,28 +281,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py_code/birthday.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py_code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py_code/helloworld.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,11 +335,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bicycles" />
         <item itemvalue="Python.birthday" />
         <item itemvalue="Python.name" />
         <item itemvalue="Python.message" />
         <item itemvalue="Python.线程优先级队列" />
-        <item itemvalue="Python.helloworld" />
       </list>
     </recent_temporary>
   </component>
@@ -344,6 +385,7 @@
       <workItem from="1553779871351" duration="5727000" />
       <workItem from="1553839431353" duration="2485000" />
       <workItem from="1553867512474" duration="2046000" />
+      <workItem from="1553937330951" duration="1990000" />
     </task>
     <task id="LOCAL-00001" summary="默认的">
       <created>1553681576901</created>
@@ -464,11 +506,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553839935680</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="提交文件">
+      <created>1553937348733</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1553937348733</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31029000" />
+    <option name="totallyTimeSpent" value="33019000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -480,14 +529,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="744" y="59" width="1017" height="1050" extended-state="0" />
+    <frame x="923" y="46" width="1017" height="1050" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.27272728" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.27899686" />
       <window_info id="Structure" order="1" sideWeight="0.5008606" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5008606" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6624869" weight="0.31222707" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.661442" weight="0.31222707" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947754" weight="0.3995633" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -495,10 +544,10 @@
       <window_info anchor="bottom" id="找到" order="7" />
       <window_info anchor="bottom" id="运行" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.6750261" visible="true" weight="0.30349344" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.6739812" weight="0.30349344" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49444443" weight="0.3290993" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.32497388" side_tool="true" visible="true" weight="0.30349344" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.338558" side_tool="true" weight="0.31222707" />
       <window_info anchor="bottom" id="调试" order="14" />
       <window_info anchor="bottom" id="Python Console" order="15" sideWeight="0.6064815" weight="0.3290993" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="16" visible="true" weight="0.35450345" />
@@ -625,6 +674,39 @@
             <caret line="1" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="77" column="73" selection-start-line="77" selection-start-column="73" selection-end-line="77" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../学习/python/code/[新]1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="106" selection-start-column="106" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../学习/python/code/02-案例：udp聊天.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../学习/python/code/08-案例：文件下载-client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-540" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/py_code/bicycles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
